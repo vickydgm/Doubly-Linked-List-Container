@@ -1,5 +1,6 @@
 # Doubly-Linked-List-Container
 Generic programming, implementation of doubly-linked list class, nested class application
+
 Project Description:
 
 Objectives: Understanding generic programming and information hiding by developing generic containers. Getting familiar with the concept of class template and its usage. Use of nested (iterator) classes. Use of namespace. Operator overloading.  
